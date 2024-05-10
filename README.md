@@ -26,6 +26,4 @@ Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analy
 #### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
 
-#### Posted in
-- [Medium: Exploratory Data Analysis on Super Store](https://medium.com/analytics-vidhya/exploratory-data-analysis-super-store-cb91c37bcb06?source=friends_link&sk=4da79b677c63a8ad63bce6ae84fb5a25)
-- [Kaggle: Sales Analysis on Super Store](https://www.kaggle.com/katiehuangx/sales-analysis-super-store)
+# Author: [Pruthvish Vyas](https://linkedin.com/in/Pruthvish-vyas/)
