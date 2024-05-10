@@ -1,8 +1,9 @@
-# Welcome to My Project!
+# Pruthvish Here
 
-## Overview
-This project aims to revolutionize the way we interact with technology by introducing innovative solutions to common problems.
+## Now, what ?
 
-### Features
+#Features:
+  - go to musty
+  - - go again
+
 - Intuitive user interface for seamless navigation.
-- Advanced algorithms for efficient data processing.
