@@ -26,4 +26,4 @@ Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analy
 #### Data Set
 The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
 
-# Author: Pruthvish [Vyas](https://linkedin.com/in/Pruthvish-vyas/ "Vyas")
+# Author: [Pruthvish](https://linkedin.com/in/Pruthvish-vyas/) Vyas
